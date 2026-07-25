@@ -1,0 +1,6 @@
+{
+  "name": "Factura",
+  "description": "Native Android Invoicing and Expense Management App targeting Kenyan businesses",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
